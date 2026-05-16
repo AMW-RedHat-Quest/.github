@@ -1,4 +1,4 @@
-# AMW RedHat Quest 🚀
+# AMW RedHat DevOps 🚀
 
 **Red Hat Linux → Automation → DevOps**
 
